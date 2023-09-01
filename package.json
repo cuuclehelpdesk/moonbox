@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "MoonBox",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "MoonBox instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
