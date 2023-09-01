@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+  "name": "MoonBox",
+  "description": "MoonBoxndjs",
+  "repository": "https://github.com/c22dev/MoonBox",
+  "logo": "https://avatars.githubusercontent.com/u/102235607?v=4",
   "keywords": ["tomp", "ultraviolet"]
 }
